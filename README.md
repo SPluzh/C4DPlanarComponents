@@ -1,7 +1,7 @@
 # C4DPlanarComponents
 Planar Components script for Cinema 4D
 
-This script is based on the original tutorial available in the video: [Planar Components Tutorial](https://www.youtube.com/watch?v=ieN5SyGJwIw&t=26s)
+This script is based on the original tutorial available in the video: https://www.youtube.com/watch?v=ieN5SyGJwIw&t=26s
 
 ## Prerequisites
 
@@ -28,7 +28,5 @@ The script requires the **NumPy** library. To install it, you first need to have
    - Once **NumPy** is installed, open Cinema 4D and launch the Script Editor.
    - Run the `c4dPlanarComponents.py` script from the Script Editor.
 
-## More Information
 
-For more details, updates, and the latest version, visit the repository:  
-[Planar Components Cinema 4D](https://github.com/user-attachments/assets/0384a276-d42e-4e2b-bfa3-37151a9542ae)
+https://github.com/user-attachments/assets/0384a276-d42e-4e2b-bfa3-37151a9542ae
