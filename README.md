@@ -24,6 +24,12 @@ The script requires the **NumPy** library. To install it, you first need to have
 
    - Run the script `c4d_install_pip_numpy2.cmd` (for Python 2) or `c4d_install_pip_numpy3.cmd` (for Python 3). This will download and install **pip**, and then use it to install the **NumPy** library.
 
+
+
+https://github.com/user-attachments/assets/9a2e0b6b-eb32-4112-827a-aeaebc20b161
+
+
+
 2. **Run the Script**:
    - Once **NumPy** is installed, open Cinema 4D and launch the Script Editor.
    - Run the `c4dPlanarComponents.py` script from the Script Editor.
