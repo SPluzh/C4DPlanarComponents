@@ -14,12 +14,12 @@ The script requires the **NumPy** library. To install it, you first need to have
    
    - For **Python 2** (Cinema 4D R22 and earlier), the path might look like:
      ```
-     C:\Program Files\Maxon\Cinema 4D R22\resource\modules\python\libs\python27.win64.framework
+     C:\Program Files\Maxon Cinema 4D R22\resource\modules\python\libs\win64\python27.vs2008.framework
      ```
    
    - For **Python 3** (Cinema 4D R23 and above), the path might look like:
      ```
-     C:\Program Files\Maxon\Cinema 4D R26\resource\modules\python\libs\python39.win64.framework
+     C:\Program Files\Maxon Cinema 4D R26\resource\modules\python\libs\python39.win64.framework
      ```
 
    - Run the script `c4d_install_pip_numpy2.cmd` (for Python 2) or `c4d_install_pip_numpy3.cmd` (for Python 3). This will download and install **pip**, and then use it to install the **NumPy** library.
