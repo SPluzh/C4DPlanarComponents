@@ -1,7 +1,7 @@
 # C4DPlanarComponents
 Planar Components script for Cinema 4D
 
-This script is based on the original tutorial available in the video: https://www.youtube.com/watch?v=ieN5SyGJwIw&t=26s
+This script is based on the original script from this video: https://www.youtube.com/watch?v=ieN5SyGJwIw&t=26s
 
 ## Prerequisites
 
