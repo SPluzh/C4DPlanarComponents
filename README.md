@@ -3,6 +3,16 @@ Planar Components script for Cinema 4D
 
 This script is based on the original script from this video: https://www.youtube.com/watch?v=ieN5SyGJwIw&t=26s
 
+## Script Versions
+
+- **`c4dPlanarComponents.py`** - Original version (1.0): Aligns all selected vertices to best-fit plane
+- **`c4dPlanarComponentsAutoSnapToAxis.py`** - Enhanced version (1.3): 
+  - Auto-snaps plane normal to world axes (X/Y/Z) when within 0.1° threshold
+  - Only moves vertices that are OFF the plane (selective displacement)
+  - Detects existing coplanar vertices and preserves them
+  - Works with vertices, edges, and polygons selection modes
+  - Shows non-blocking notification in status bar with moved vertex count and plane orientation
+
 ## Prerequisites
 
 The script requires the **NumPy** library. To install it, you first need to have **pip** (Python's package installer) installed. The `c4d_install_pip_numpy` script will download and install `pip` for you, and then use it to install **NumPy**.
